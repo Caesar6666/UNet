@@ -1,0 +1,6 @@
+torch
+torchvision
+thop
+opencv-python
+pil
+tqdm
